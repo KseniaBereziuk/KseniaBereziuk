@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KseniaBereziuk
-- 👀 I’m interested in QA/QC  
+- 👀 I'm a QA Test Engineer  
 - 🌱 I’m currently work on Cypress framework
-- 💞️ I’m looking to collaborate on project as a Junior QC engineer
+- 💞️ I’m looking to collaborate on project as a QA engineer
 - 📫 How to reach me via email ksenia.golak@gmail.com
 
 <!---
