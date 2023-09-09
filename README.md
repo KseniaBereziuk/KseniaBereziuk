@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KseniaBereziuk
 - 👀 I'm a QA Test Engineer  
-- 🌱 I’m currently work on Cypress framework
+- 🌱 I currently work on Cypress-Cucumber preprocessor framework (BDD) in parralell with Selenium SpecFlow WebDriver framework (also BDD)
 - 💞️ I’m looking to collaborate on project as a QA engineer
 - 📫 How to reach me via email ksenia.golak@gmail.com
 
